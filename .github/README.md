@@ -29,11 +29,8 @@
   <img src="https://profile-counter.glitch.me/hasnainkk-07/count.svg" />
 </p>
 
-### GitHub Overview
-
-<a href="https://github.com/hasnainkk-07/github-readme-stats">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hasnainkk-07 &show_icons=True&include_all_commits=True&count_private=True&theme=react&hide_border=True&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-</a>
+### Repository 
+**Dear Visitors My all repositories are private Thanks for visit here**
 
 ### My Bot 
 [**Raiden Robot**](https://t.me/Raiden_Robot)
