@@ -3,14 +3,14 @@
 </p>
 
 <h2 align="center">
-    ──「 ѕυкυиα 💔 PROFILE 」──
+    ──「 ʜᴀsɴᴀɪɴ ᴋʜᴀɴ PROFILE 」──
 </h2>
 
 <div style="display: flex;">
   <div style="flex: 1;">
     <h3>About Me</h3>
     <p>
-      Hᴇʏ ᴛʜᴇʀᴇ! 👋 I'ᴍ ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴇɴᴛʜᴜsɪᴀsᴛ.
+      ʜᴇʟʟᴏ ɪ ᴀᴍ ʜᴀsɴᴀɪɴ ᴋʜᴀɴ 
     </p>
   </div>
   <div style="flex: 1;">
