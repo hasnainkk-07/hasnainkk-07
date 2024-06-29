@@ -47,7 +47,7 @@
 
 You can connect with me on various platforms:
 
-- [![telegram](https://img.shields.io/badge/ʜᴀsɴᴀɪɴ-Telegram-green?style=for-the-badge&logo=telegram)](https://t.me/hasnainkk)
+- [![telegram](https://img.shields.io/badge/ʜᴀsɴᴀɪɴ-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/hasnainkk)
 
 <br>
 
