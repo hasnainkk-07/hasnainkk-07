@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+My+GitHub+Profile;I+Am+Hasnain+Khan;Thank+You+For+Visiting" width="600" height="180" alt="Welcome Message">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Welcome+to+My+GitHub+Profile;I+Am+Hasnain+Khan;Thank+You+For+Visiting" width="600" height="180" alt="Welcome Message">
 </p>
 
 <p align="center">
