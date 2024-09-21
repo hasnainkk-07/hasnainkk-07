@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center">
-    ── **Hasnain Khan's GitHub Profile** ──
+    ── Hasnain Khan's GitHub Profile ──
 </h2>
 
 <div align="center">
@@ -18,7 +18,7 @@
         Hi, I'm Hasnain Khan. I am passionate about software development with expertise in Python and various web technologies. Explore my projects and feel free to connect with me!
       </p>
     </div>
-    <img src="https://te.legra.ph/file/c3005d2ae64819522b556.jpg" width="200" alt="Profile Image">
+    <img src="https://te.legra.ph/file/1e40db3286cc49114b86a.jpg" width="200" alt="Profile Image">
   </div>
 </div>
 
